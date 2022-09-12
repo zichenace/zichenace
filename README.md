@@ -1,7 +1,7 @@
 ## Hi,there! 
 
 
-I'm Texas(ZiChen), a Maker ＆ developer.
+I'm Texas (ZiChen), a Maker ＆ developer.
 
 - HomePage: https://redplan.top/
 - Blog: https://zichen.zone/
